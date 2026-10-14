@@ -1,1 +1,5 @@
 Docker Desktop Installer.exe
+.venv/
+__pycache__/
+*.py[cod]
+.env
